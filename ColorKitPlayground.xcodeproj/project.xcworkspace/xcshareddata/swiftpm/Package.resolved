@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ColorKit",
+        "repositoryURL": "https://github.com/Boris-Em/ColorKit.git",
+        "state": {
+          "branch": null,
+          "revision": "d9c3a546c40f31b5f2c624603fa03f56904e2dc2",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "SnapKit",
+        "repositoryURL": "https://github.com/SnapKit/SnapKit",
+        "state": {
+          "branch": null,
+          "revision": "d458564516e5676af9c70b4f4b2a9178294f1bc6",
+          "version": "5.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
